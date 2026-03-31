@@ -1,21 +1,17 @@
-<<<<<<< HEAD
-# React + Vite
+# 🧠 Mini Application de Quiz — Projet React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Quiz interactif avec timer, score en temps réel et écran de résultats.
 
-Currently, two official plugins are available:
+## 🔗 Démo live
+[Voir le projet en ligne] : 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies utilisées
+- React
+- Vite
+- CSS Modules
 
-## React Compiler
+## 📚 Ce que j'ai appris
+- useState pour gérer plusieurs états simultanément
+- useEffect pour le timer avec cleanup
+- Rendu conditionnel selon le statut du jeu
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# quiz
-Questionnaire avec score et temps de réponse
->>>>>>> 2c5ccebad3525d6cebd19abf4cf37056d957db97
